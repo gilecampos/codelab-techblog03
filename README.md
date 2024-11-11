@@ -10,7 +10,7 @@ Este projeto é uma página web para exibir artigos relacionado a programação 
 ## Link para preview
 [Ver projeto](https://gilecampos.github.io/codelab-techblog03/)
 
-
+![Novo Projeto (3)](https://github.com/user-attachments/assets/c61749e7-7166-4f41-b5e4-54ac5f4e1146)
 
 ### Tecnologias Utilizadas
 
@@ -28,7 +28,7 @@ Este projeto é uma página web para exibir artigos relacionado a programação 
 
 1. **Clone o Repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/codelab-blog01.git
+   git clone https://github.com/seu-usuario/codelab-techblog03.git
 
 2. **Abra o arquivo `index.html` em um navegador:**
   - Não é necessário configurar um servidor, basta abrir o arquivo diretamente em um navegador.
